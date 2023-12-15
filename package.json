@@ -1,5 +1,6 @@
 {
   "name": "workflow-speedrun-gabancho",
+  "homepage": "https://gianpaoloits.github.io/workflow-speedrun-gabancho",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
